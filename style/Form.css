@@ -39,6 +39,7 @@ div.t>textarea{
     outline: none;
     
     animation: startform 1s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+    transition: all 0s;
 }
             
 div.t>textarea:focus{
