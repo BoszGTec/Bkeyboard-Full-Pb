@@ -1,4 +1,4 @@
-# <img src="https://github.com/BoszGTec/BKeyboard-Full-ver/blob/main/image/Logo.png" style="width:60px;" >BKeyboard-Pb-ver
+# <img src="https://github.com/Tbcsos/Bkeyboard-Full/blob/main/image/Logo.png" style="width:60px;" >BKeyboard-Pb-ver
 เว็บแก้ปัญหาเวลาพิมพ์แล้วลืมกดเปลี่ยนภาษา
 ![image](https://user-images.githubusercontent.com/95701554/145426068-5e2daee2-ebf2-4835-9d3d-346bdf47841c.png)
 (Dark mode)
