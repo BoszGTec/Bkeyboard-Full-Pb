@@ -1,0 +1,55 @@
+html{
+    width: 100%;
+    height: 100%;
+    border: 0%;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body{
+    --bgcolor : rgb(24, 24, 24);
+    --color : rgb(211, 211, 211);
+    --el-bgcolor : rgb(36, 36, 36);
+    --el-color : rgb(206, 206, 206);
+    --el-fs-color: #fff;
+    --el-bd:rgba(255, 255, 255, 0);
+    --footer-color:rgb(168, 174, 179);
+    --footer-bd : rgb(56, 56, 70);
+    --shadow-el : #000000;
+    transition: all 1s ease-in ;
+
+    position: static;
+    height: 100%;
+    border: 0%;
+    margin: 0%;
+    padding: 0%;
+    background-color: var(--bgcolor);
+    color: #fff;
+    overflow: hidden;
+    font-family: 'Prompt', sans-serif;
+}
+a{
+    text-decoration: none;
+    color:rgb(131, 200, 200)
+}
+
+@media screen and (max-width:1250px) {
+    body{
+        overflow-y:scroll ;
+        }
+       
+}
+@media screen and (max-width:600px) {
+    body{
+         overflow-y:scroll ;
+    }
+    div.t>textarea{
+        max-width: 300px;
+        width: 100%;
+    }
+    div.t{
+        padding-left: 20px;
+    }
+}
+

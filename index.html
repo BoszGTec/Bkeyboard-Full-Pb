@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <link href="image/icon.png" rel="icon">
+    <link href="style/Main-style.css" rel="stylesheet">
+    <link href="style/Menubar.css" rel="stylesheet">
+    <link href="style/Form.css" rel="stylesheet">
+    
+    <head>
+        <title>ลืมเปลี่ยนภาษา</title>
+        <script src="script/Theme-mode.js "></script>
+        <style>
+            *{
+                transition: all 1s ease-in ;
+            }
+        </style>
+
+    </head>
+    <body>
+        <div class="menub">
+            <div>
+            <img src="image/Logo.png" height="45px" class="logo">
+            <h1>ลืมเปลี่ยนภาษา</h1>
+        </div>
+
+            <div>
+                <img class="theme" src="image/outline_light_mode_white_24dp.png" />
+                <img class="theme2" src="image/outline_dark_mode_white_24dp.png" />
+                
+                <div class="theme">
+                    <div id="theme" onclick="thememode()" title="ปรับโหมดสี"></div>
+                </div>
+                
+                <a href="https://github.com/BoszGTec/BKeyboard-Full-ver">
+                    <img class="githubic" src="image/GitHub-Mark-Light-120px-plus.png" >
+                </a>
+                
+            </div>
+            
+          
+        </div>
+            <div class="grid-ct" >
+                
+                <div class="t" id="o" oninput="system_main()" >
+                    <div>
+                        <p>Input</p>
+                        <select id="me_c" onchange="system_main()">
+                            <option>Auto</option>
+                            <option>En To Th</option>
+                            <option>Th To En</option>
+                        </select>
+                    </div>
+                    <textarea placeholder="l;ylfu" id="inp"></textarea>
+                </div>
+                <div class="t" id="oo">
+                    <div>
+                        <p>Output</p>
+                    </div>
+                    <textarea readonly placeholder="สวัสดี" id="outp" > </textarea>
+                </div>
+
+            </div>
+        
+            <div class="footer">
+               <div>©2021 <a href="mailto:bossgeeg123456@gmail.com">bossgeeg</a></div>
+            </div>
+            <script src="script/System.js"></script>
+            <script src="script/SettingCookie.js"></script>
+    </body>
+</html>
