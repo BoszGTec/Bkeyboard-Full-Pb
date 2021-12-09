@@ -1,8 +1,8 @@
 # <img src="https://github.com/Tbcsos/Bkeyboard-Full/blob/main/image/Logo.png" style="width:60px;" >BKeyboard-Pb-ver
 เว็บแก้ปัญหาเวลาพิมพ์แล้วลืมกดเปลี่ยนภาษา
-![image](https://user-images.githubusercontent.com/95701554/145426068-5e2daee2-ebf2-4835-9d3d-346bdf47841c.png)
+![image](https://user-images.githubusercontent.com/85185684/145448294-dd817edf-c71d-4d6f-a30a-da9cdbb22842.png)
 (Dark mode)
-![image](https://user-images.githubusercontent.com/95701554/145426606-c563cf93-a409-4394-b816-8c37378cbab3.png)
+![image](https://user-images.githubusercontent.com/85185684/145448329-894c61b9-d855-4c6e-a462-addd60590f52.png)
 (Light mode) <br>
 icon+font from https://fonts.google.com/?subset=thai <br>
 github icon from https://github.com/logos <br>
