@@ -4,6 +4,7 @@
 (Dark mode)
 ![image](https://user-images.githubusercontent.com/85185684/145448329-894c61b9-d855-4c6e-a462-addd60590f52.png)
 (Light mode) <br>
+!!มีการใช้คุกกี้ในเว็บ
 icon+font from https://fonts.google.com/?subset=thai <br>
 github icon from https://github.com/logos <br>
 by [bossgeeg](mailto:bossgeeg123456@gmail.com)
