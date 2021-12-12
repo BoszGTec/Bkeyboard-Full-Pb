@@ -88,6 +88,25 @@ div.t>textarea:focus{
     outline: none;
 }
 
+.button{
+    font-family:'Prompt', sans-serif;
+    background-color: var(--el-bgcolor);
+    color: var(--color);
+    border:solid rgb(56, 56, 70) 1px ;
+    border-radius: 5px;
+}
+
+.buttonlb{
+    display: none;
+    position: relative;
+    top: -30px;
+    left: -65px;
+    color: rgb(110, 144, 0);
+    padding: 1px;
+    font-size: 12px;
+
+}
+
 @media screen and (max-width:1250px) {
         .grid-ct{
             grid-template-columns: 100%;
