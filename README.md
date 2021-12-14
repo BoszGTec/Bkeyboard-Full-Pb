@@ -1,5 +1,5 @@
 # <img src="https://github.com/Tbcsos/Bkeyboard-Full/blob/main/image/Logo.png" style="width:60px;" >BKeyboard-Pb-ver
-เว็บแก้ปัญหาเวลาพิมพ์แล้วลืมกดเปลี่ยนภาษา
+### เว็บแก้ปัญหาเวลาพิมพ์แล้วลืมกดเปลี่ยนภาษา
 + (Dark mode)
 ![image](https://user-images.githubusercontent.com/85185684/145448294-dd817edf-c71d-4d6f-a30a-da9cdbb22842.png)
 + (Light mode)
