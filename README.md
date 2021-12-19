@@ -11,4 +11,5 @@
 icon+font from https://fonts.google.com/?subset=thai <br>
 github icon from https://github.com/logos <br>
 
-by [©bossgeeg](mailto:bossgeeg123456@gmail.com)
+by [©bossgeeg](mailto:bossgeeg123456@gmail.com) <br/>
+[ข้อเสนอแนะ](https://forms.gle/HADEEuULd9S6TgtV6)
