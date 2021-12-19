@@ -116,17 +116,25 @@ div.t>textarea:focus{
         .footer{
             position: unset ;
         }
+        div.t{
+            width: 80%;
+        }
+        div.t>textarea{
+            width: 100%;
+        }
+        
 }
 @media screen and (max-width:600px) {
-    div.t>textarea{
-        max-width: 500px;
-        width: 100%;
-    }
     div.t{
-        padding-left: 20px;
+        width: 90%;
     }
+    div.t>textarea{
+        width: 100%;
+        max-width: 400px;
+    }
+  
     .grid-ct{
-        grid-template-columns: auto;
+        grid-template-columns: 100%;
         justify-self: center;
     }
     .footer{
