@@ -41,6 +41,8 @@ div.t>textarea{
     animation: startform 1s cubic-bezier(0.18, 0.89, 0.32, 1.28);
     transition: all 0s;
     transition: background-color 0.75s ease-in ;
+    
+    font-size: 16px;
 }
             
 div.t>textarea:focus{
