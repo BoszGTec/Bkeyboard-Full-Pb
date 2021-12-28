@@ -12,4 +12,4 @@ icon+font from https://fonts.google.com/?subset=thai <br>
 github icon from https://github.com/logos <br>
 
 by [©bossgeeg](mailto:bossgeeg123456@gmail.com) <br/>
-[ข้อเสนอแนะ](https://forms.gle/HADEEuULd9S6TgtV6)
+[ข้อเสนอแนะ](https://formfacade.com/headless/116384025839853762093/home/form/1FAIpQLScKyvIEqslTkbSPqZ7At32wHE0_H9p3JaAAXemBcbazuPMK1w)
