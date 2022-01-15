@@ -18,6 +18,7 @@ github icon : https://github.com/logos <br>
 + บันทึกโหมดสีได้
 + บันทึกข้อความได้(บางส่วน)
 + เพิ่มปุ่มคัดลอก
++ ป้องกันการ Debug
 + มีการเก็บยอดผู้ใช้โดยใช้ <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics
 
 by [©bossgeeg](mailto:bossgeeg123456@gmail.com) <br/>
