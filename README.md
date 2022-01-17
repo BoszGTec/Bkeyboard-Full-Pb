@@ -21,5 +21,5 @@ github icon : https://github.com/logos <br>
 + ป้องกันการ Debug
 + มีการเก็บยอดผู้ใช้โดยใช้ <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics
 
-by [©bossgeeg123456](mailto:bossgeeg123456@gmail.com) <br/>
+by [©bossgeeg](mailto:bossgeeg123456@gmail.com) <br/>
 [ข้อเสนอแนะ](https://formfacade.com/headless/116384025839853762093/home/form/1FAIpQLScKyvIEqslTkbSPqZ7At32wHE0_H9p3JaAAXemBcbazuPMK1w)
