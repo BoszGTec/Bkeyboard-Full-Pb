@@ -21,7 +21,7 @@ github icon : https://github.com/logos <br>
 + เปลี่ยนโหมดสีได้
 + บันทึกโหมดสีได้
 + ป้องกันการ Debug
-+ มีการเก็บยอดผู้ใช้โดยใช้ <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics
++ ยกเลิกการเก็บยอดผู้ใช้โดยใช้ <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics
 
 
 สร้างด้วย <img height=25px src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" />
