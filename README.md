@@ -11,15 +11,15 @@
 icon+font : https://fonts.google.com/?subset=thai <br>
 github icon : https://github.com/logos <br>
 
+⛔ ข้อห้ามในการใช้!! :
++ ห้ามพิมพ์อักษรในวงเว็บตามแบบต่อไปนี้ [:|:] [ซฅซ]
+
 ฟีเจอร์ปัจจุบัน :
 + ใช้ได้ไม่จำกัดครั้ง
-+ ห้ามพิมพ์อักษรในวงเว็บตามแบบต่อไปนี้ [:|:] [ซฅซ]
 + ไม่จำกัดคำ
 + มีโหมดการเปลี่ยนให้เลือก 3 โหมด( Auto , En to Th , Th to En )
 + เปลี่ยนโหมดสีได้
 + บันทึกโหมดสีได้
-+ บันทึกข้อความได้(บางส่วน)
-+ เพิ่มปุ่มคัดลอก
 + ป้องกันการ Debug
 + มีการเก็บยอดผู้ใช้โดยใช้ <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics
 
