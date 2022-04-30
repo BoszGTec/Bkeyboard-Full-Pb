@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
     <!-- ตั้งค่าต่างๆ + เชื่อมต่อกับ google_fonts_api -->
-    <!-- Setting + connect google_fonts_api -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -36,13 +35,15 @@
        </script>
     </head>
     <body>
-     
+        <!-- ส่วน header -->
         <div class="menub">
+            <!-- ส่วนชื่อเว็บและโลโก้ -->
             <div>
-            <img src="image/Logo.png" height="35px" class="logo">
-            <h1>ลืมเปลี่ยนภาษา</h1>
-        </div>
-
+               <img src="image/Logo.png" height="35px" class="logo">
+               <h1>ลืมเปลี่ยนภาษา</h1>
+            </div>
+            
+            <!-- ส่วน ปรับโหมดสีและไอคอนgithub -->
             <div>
                 <img class="theme" src="image/outline_light_mode_white_24dp.png" />
                 <img class="theme2" src="image/outline_dark_mode_white_24dp.png" />
@@ -56,36 +57,49 @@
                 </a>
                 
             </div>
-            
-          
         </div>
-            <div class="grid-ct" >
-                
+        <!-- จบส่วน header --> 
+  
+          <!-- ส่วน content -->
+             <div class="grid-ct" >
+                <!-- ส่วน input -->
                 <div class="t" id="o" oninput="system_main()" >
                     <div>
                         <p>Input</p>
+                        <!-- ส่วนเลือกเมนู -->
                         <select id="me_c" onchange="system_main()">
                             <option>Auto</option>
                             <option>En To Th</option>
                             <option>Th To En</option>
                         </select>
                     </div>
+                    <!-- ส่วนกรอกตัวอักษร -->
                     <textarea placeholder="l;ylfu" id="inp"></textarea>
                 </div>
+                <!-- จบส่วน input -->
+
+                <!-- ส่วน output -->
                 <div class="t" id="oo">
                     <div>
                         <p>Output</p>
+                        <!-- ปุ่มสำหรับคัดลอก output -- 
                         <input type="button" value="คัดลอก" onclick="cptcb()" class="button" />
                         <div class="buttonlb">คัดลอกแล้ว</div>
                     </div>
+                    <!-- ส่วนแสดงผล output -->
                     <textarea readonly placeholder="สวัสดี" id="outp" > </textarea>
                 </div>
-
+                <!-- จบส่วน output -->
             </div>
+            <!-- จบส่วน content -->
         
+            <!-- ส่วน footer -->
             <div class="footer">
                <div>©2021 <a href="mailto:bossgeeg123456@gmail.com">bossgeeg</a></div>
             </div>
+            <!-- จบส่วน footer -->
+
+            <!-- ส่วนเรียกสคริปต์คำสั่ง -->
             <script src="script/SettingCookie.js"></script>
             <script src="script/Theme-mode.js "></script>
             <script src="script/System.js"></script>
