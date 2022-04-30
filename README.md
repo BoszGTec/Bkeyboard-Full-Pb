@@ -24,7 +24,8 @@ https://github.com/logos <br>
 + ไม่จำกัดคำ
 + มีโหมดการเปลี่ยนให้เลือก 3 โหมด <br> ```Auto``` ```En to Th``` ```Th to En```
 + เปลี่ยนโหมดสีได้
-+ บันทึกโหมดสีได้
++ บันทึกโหมดสีอัตโนมัติ
++ บันทึกข้อความอัตโนมัติ
 + ป้องกันการ Debug
 + ```❌ยกเลิก```การเก็บยอดผู้ใช้โดยใช้ <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics
 
