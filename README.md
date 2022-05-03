@@ -29,7 +29,8 @@ https://github.com/logos <br>
 + บันทึกโหมดสีอัตโนมัติ
 + บันทึกข้อความอัตโนมัติ
 + ป้องกันการ Debug
-<!-- + เก็บยอดผู้ใช้โดยใช้ <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics -->
++ เก็บยอดผู้ใช้ด้วย <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics
+  + ไม่ได้เก็บข้อมูลส่วนตัวเก็บแค่ยอดผู้ใช้กับข้อมูลที่ใช้ในการทำงานของเว็บเท่านั้น
 
 
 สร้างด้วย <img height=25px src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" />
