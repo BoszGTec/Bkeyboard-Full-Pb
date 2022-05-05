@@ -28,7 +28,6 @@ https://github.com/logos <br>
 + เปลี่ยนโหมดสีได้
 + บันทึกโหมดสีอัตโนมัติ
 + บันทึกข้อความอัตโนมัติ
-+ ป้องกันการ Debug
 + เก็บยอดผู้ใช้ด้วย <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics
   + ไม่ได้เก็บข้อมูลส่วนตัวเก็บแค่ยอดผู้ใช้กับข้อมูลที่ใช้ในการทำงานของเว็บเท่านั้น
 
