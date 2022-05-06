@@ -1,5 +1,6 @@
 <img src="https://github.com/BoszGTec/Bkeyboard-Full-Pb/blob/main/image/Banner%201.png" /> <br>
 # <img src="https://github.com/BoszGTec/Bkeyboard-Full-Pb/raw/main/image/Logo.png" style="width:60px;" >BKeyboard-Pb-ver
+![GitHub repo size](https://img.shields.io/github/repo-size/BoszGTec/Bkeyboard-Full-Pb?color=f0f0f0&logo=Github&label=Repo%20size)
 ### เว็บแก้ปัญหาเวลาพิมพ์แล้วลืมกดเปลี่ยนภาษา
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23818181&lines=lf.l.opk%2Cl%5Bkp;%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA%E0%B9%83%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2)]()
 + โหมดมืด 🌑
