@@ -36,5 +36,6 @@ https://github.com/logos <br>
 <img height=30px src="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667" />
 <img height=25px src="https://camo.githubusercontent.com/0c6adf0b34772f192a1c98b80ca013f2d69e954738b20062a114d9bbd245aab5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667" />
 
-###### by ©2021 bossgeeg <br/>
+###### by ©2021 bossgeeg/[©2022 BoszGTec](https://github.com/BoszGTec)
+ <br/>
 
